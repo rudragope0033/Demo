@@ -7,6 +7,7 @@ public class AddAnimalsTest {
 	public void test()
 	{
 		System.out.println("this is for demo");
+		System.out.println("AddAnimalsTest.test()");
 	}
 
 }
